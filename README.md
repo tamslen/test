@@ -2,34 +2,6 @@
 
 This repository contains a basic console application written in Objective-C. The application prompts the user to enter their name and then greets them.
 
-## Usage
-
-1. Clone this repository to your local machine.
-
-    ```bash
-    git clone <repository_url>
-    ```
-
-2. Navigate to the project directory.
-
-    ```bash
-    cd <project_directory>
-    ```
-
-3. Compile the Objective-C code using a suitable compiler (e.g., `gcc` with the `-framework Foundation` flag).
-
-    ```bash
-    gcc -framework Foundation main.m -o greeting_app
-    ```
-
-4. Run the compiled executable.
-
-    ```bash
-    ./greeting_app
-    ```
-
-5. Follow the on-screen instructions to enter your name and receive a warm greeting.
-
 ## Objective-C Code Explanation
 
 The main Objective-C file (`main.m`) does the following:
